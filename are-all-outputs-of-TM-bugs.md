@@ -6,6 +6,7 @@ Not everything is a bug. Hard to call an issue in code that’s not written a bu
 - Bugs
 - Requirements
 - Requirements for technical or procedural control
+- Buisness Requimenets
 - User stories into the backlog
 - Wiki as intermediate stage
 - Findings
